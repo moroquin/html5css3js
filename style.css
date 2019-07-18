@@ -1,0 +1,39 @@
+#idname{
+    background: red;
+    color: white;
+}
+
+header{
+    background: black;
+    color: white; 
+    text-align: center;
+}
+
+.fondo{
+    background: black;
+    color: white;   
+}
+
+
+
+h1{
+    font-size: 20px;
+    color: red;
+    font-family: sans-serif;
+    font-weight: bold;
+}
+
+article, header, footer, section{
+    border: 1px solid blue;
+    display: block;
+    text-align: center;
+    padding: 20px;
+}
+
+section{
+    margin: auto
+}
+
+footer{
+    text-align: right;
+}
